@@ -1,0 +1,88 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "firstproject",
+            "cwd": "firstproject",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "firstproject (profile mode)",
+            "cwd": "firstproject",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "firstproject (release mode)",
+            "cwd": "firstproject",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "labactivity1",
+            "cwd": "labactivity1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "labactivity1 (profile mode)",
+            "cwd": "labactivity1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "labactivity1 (release mode)",
+            "cwd": "labactivity1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "modelhandler",
+            "cwd": "modelhandler",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "modelhandler (profile mode)",
+            "cwd": "modelhandler",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "modelhandler (release mode)",
+            "cwd": "modelhandler",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "prelim",
+            "cwd": "prelim",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "prelim (profile mode)",
+            "cwd": "prelim",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "prelim (release mode)",
+            "cwd": "prelim",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
