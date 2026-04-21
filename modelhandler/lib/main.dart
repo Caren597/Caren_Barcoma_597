@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:modelhandler/screen/chat_screen.dart';
 import 'package:modelhandler/screen/loginscreen.dart';
 
 
@@ -32,7 +33,7 @@ class MyApp extends StatelessWidget {
         // tested with just a hot reload.
         colorScheme: .fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: LoginPage(),
+      home: ChatPage(username: 'caren'),
       debugShowCheckedModeBanner: false
     );
   }
